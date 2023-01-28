@@ -8,3 +8,4 @@ echo "ruta donde esta carpeta asegurarse funcione" >> ~/.bashrc
 3 creamos un repositor en nuestra cuenta github
 4 creamos un token desde cuenta github en parte settings 
 5 testeamos desde github
+6 Actualizamos nuestra lista de tiempo (commit)
