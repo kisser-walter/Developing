@@ -1,6 +1,7 @@
 1 primer paso configurar el git con los comandos:
 
 $ git config --global user.name "John Doe"
+
 $ git config --global user.email johndoe@example.com
 
 2 configurar el git para inicie carpeta yo quiero sea principal
