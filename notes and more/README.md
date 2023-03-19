@@ -24,4 +24,9 @@ git commit -m "comentar que estas cambiando" es el punto guarda un punto en la h
 
 espero sea util .
 					  
-					  
+					  para crear una nueva rama es 
+					  git branch nombrerama nueva 
+					  git branch  
+					       sino pones nada muestra ramas que ahi 
+					   git checkout nombreramaquerespararte
+					   espero sea util gracias por visitar---
